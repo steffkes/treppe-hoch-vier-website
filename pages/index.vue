@@ -142,14 +142,18 @@
               </div>
             </div>
           </div>
-          <h2 class="title is-3">Die Partner</h2>
+          <h2 class="title is-3">Unsere Partner</h2>
 
           <div class="columns is-multiline is-vcentered grid">
             <div class="column is-4 has-text-centered">
-              <img src="/partner/maritim.svg" />
+              <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm">
+                <img src="/partner/maritim.svg"
+              /></a>
             </div>
             <div class="column is-4 has-text-centered">
-              <img src="/partner/donau3fm.svg" />
+              <a href="https://www.donau3fm.de">
+                <img src="/partner/donau3fm.svg" />
+              </a>
             </div>
           </div>
         </div>
