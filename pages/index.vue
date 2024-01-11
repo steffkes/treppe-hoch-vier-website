@@ -183,49 +183,8 @@
           <h2 class="title is-3">Die Sponsoren</h2>
 
           <div class="columns is-multiline is-vcentered grid">
-            <div class="column is-4 has-text-centered">
-              <img src="/sponsoren/beurer.svg" />
-            </div>
-            <div class="column is-4 has-text-centered">
-              <img src="/sponsoren/esta.svg" class="reduced" />
-            </div>
-            <div class="column is-4 has-text-centered">
-              <img src="/sponsoren/evobus.svg" />
-            </div>
-          </div>
-          <div class="columns is-multiline is-vcentered grid">
             <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/gardena.svg" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/kaessbohrer.svg" class="reduced" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/magirus.svg" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/noerpel.svg" class="reduced" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/schwenk.svg" class="reduced" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/sparkasse-ulm.svg" class="invert reduced" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/teva.svg" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/ulrich-medical.svg" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/uzin-utz.svg" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/wieland.svg" />
-            </div>
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/zwick-roell.svg" class="reduced" />
+              <img src="/sponsoren/streidt.png" />
             </div>
           </div>
 
