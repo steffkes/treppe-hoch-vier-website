@@ -57,6 +57,11 @@ useHead({
       type: "application/ld+json",
       children: JSON.stringify(event),
     },
+    {
+      src: "https://plausible.io/js/script.js",
+      "data-domain": "treppe-hoch-vier.de",
+      defer: true,
+    },
   ],
 });
 </script>
