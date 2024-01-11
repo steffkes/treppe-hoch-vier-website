@@ -1,6 +1,6 @@
 <template>
   <section class="section">
-    <div class="container">
+    <div class="container is-max-desktop">
       <h1 class="title is-1 mb-6">Treppe hoch Vier</h1>
 
       <div class="box is-shadowless">
