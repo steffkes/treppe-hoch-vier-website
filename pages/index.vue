@@ -85,7 +85,7 @@
               <div class="column is-2">
                 <img src="/maritim-ulm.jpg" alt="" />
               </div>
-              <div>
+              <div class="column">
                 Das
                 <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm"
                   >Maritim Hotel Ulm</a
