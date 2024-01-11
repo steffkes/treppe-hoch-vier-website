@@ -28,16 +28,12 @@ const event = {
   image: ["/maritim-ulm.jpg"],
 };
 
-const formattedDate = new Date(event.startDate).toLocaleDateString(
-  "de-DE",
-  {
-    weekday: "long",
-    year: "2-digit",
-    month: "2-digit",
-    day: "2-digit",
-  }
-);
-
+const formattedDate = new Date(event.startDate).toLocaleDateString("de-DE", {
+  weekday: "long",
+  year: "2-digit",
+  month: "2-digit",
+  day: "2-digit",
+});
 
 useHead({
   titleTemplate: (pageTitle) =>
@@ -63,5 +59,4 @@ useHead({
     },
   ],
 });
-
 </script>
