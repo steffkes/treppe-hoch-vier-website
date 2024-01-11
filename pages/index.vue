@@ -1,6 +1,8 @@
 <template>
   <section class="section">
     <div class="container">
+      <h1 class="title is-1 mb-6">Treppe hoch Vier</h1>
+
       <div class="box is-shadowless">
         <div class="content">
           <h2 class="title is-3">Die Fakten</h2>
