@@ -25,7 +25,7 @@ const event = {
       addressCountry: "DE",
     },
   },
-  image: ["/maritim-ulm.jpg"],
+  image: ["https://treppe-hoch-vier.vercel.app/treppe-hoch-vier.jpg"],
 };
 
 const formattedDate = new Date(event.startDate).toLocaleDateString("de-DE", {
