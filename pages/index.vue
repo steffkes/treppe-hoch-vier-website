@@ -34,27 +34,34 @@
             </tbody>
           </table>
 
-          <h2 class="title is-3">Der Spendenlauf</h2>
+          <h2 class="title is-3">Die Herausforderung</h2>
 
           <p>
-            Ein Kind, ein Erwachsener, ein Towerrunner & eine Rettungskraft
-            (Feuerwehr, Polizei, THW, ..) sind vier Personen. Vier Personen die
-            eine Treppe hochlaufen: <strong>Treppe hoch Vier</strong>!
+            Ein Kind, ein Erwachsener, ein Towerrunner (professioneller
+            Turmläufer) und eine Rettungskraft (Feuerwehr, Polizei, THW, ...)
+            bilden eine Gruppe. Diese vier Personen laufen acht Stunden lang,
+            vier mal pro Stunde Treppen hoch und runter:
+            <strong>Treppe hoch Vier</strong>!
           </p>
 
           <p>
-            Gelaufen werden jeweils vier Runden pro Stunde. Was sich eigentlich
-            ganz einfach anhört, wird im Laufe der Zeit zunehmend schwierig: Die
-            Beine wollen nicht mehr, dem Körper reicht's auch - nur der Kopf
-            sagt: Durchhalten! Auch deswegen ist das keine Sache die man alleine
-            in Angriff nimmt. So wie überall im Leben, sind auch wir auch in
-            diesem Fall gemeinsam stark.
+            Was zunächst einfach klingt, ist eine echte Herausforderung. Durch
+            die Dauerbelastung mit nur kurzen Pausen, machen irgendwann die
+            Beine schlapp und dem Körper reicht es auch. Einzig der Kopf sagt:
+            Durchhalten!
           </p>
 
           <p>
-            Von unten bis oben, sind es 318 Stufen. Die geht es in jeder Runde
-            einmal hoch und dann wieder runter. Pro Stunde vier mal, macht 2'544
-            Stufen in jeder Stunde. Das Ganze acht Stunden lang: 20'352 Stufen
+            Die Motivation kommt durch die Gruppe. Keiner ist alleine! Alle
+            laufen für das gleiche Ziel: möglichst viele Runden zu schaffen um
+            möglichst viele Spenden für einen guten Zweck zu sammeln.
+          </p>
+
+          <p>
+            Denn das ist es, was wir mit unserem Lauf erreichen wollen und die
+            Idee, die hinter diesem Treppenmarathon steckt. Für jede gelaufene
+            Runde spenden Sie einen Betrag von 15 € an den Förderkreis für
+            tumor- und leukämiekranke Kinder Ulm e.V.
           </p>
 
           <h2 class="title is-3">Der Empfänger</h2>
