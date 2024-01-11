@@ -57,11 +57,6 @@
             Stufen in jeder Stunde. Das Ganze acht Stunden lang: 20'352 Stufen
           </p>
 
-          <p>
-            Um das zu unterstützen, spenden unsere Sponsoren einen Geldbetrag
-            von 15 € pro gelaufener Runde
-          </p>
-
           <h2 class="title is-3">Der Empfänger</h2>
           <p>
             <a href="https://www.foerderkreis-ulm.org"
@@ -69,6 +64,40 @@
             </a>
             Hier folgen weitere Informationen zur Tätigkeit des FKU
           </p>
+
+          <h2 class="title is-3 mb-4">Ihre Möglichkeiten zur Unterstützung</h2>
+
+          <div class="columns">
+            <div class="column has-text-centered">
+              <p><span class="tag is-dark is-size-1">500 €</span></p>
+              <p>
+                <strong class="mb-1" style="display: block"
+                  >1 einzelne Person</strong
+                >
+                mit ihrem Logo auf der Startnummer
+              </p>
+            </div>
+            <div class="is-divider-vertical" data-content="oder"></div>
+            <div class="column has-text-centered">
+              <p><span class="tag is-dark is-size-1">3'000 €</span></p>
+              <p>
+                <strong class="mb-1" style="display: block"
+                  >1 komplette Gruppe</strong
+                >
+                mit ihrem Logo auf der Startnummer<br />
+                und alle Personen tragen ihr T-Shirt
+              </p>
+            </div>
+          </div>
+          <div class="columns">
+            <div class="column is-offset-half">
+              <p class="is-size-7 has-text-grey-light">
+                * Eine Gruppe entspricht vier Personen (Kind, Erwachsener,
+                Towerrunner und Rettungskraft). Wobei die Rettungskraft, aus
+                rechtlichen Gründen, ihr eigenes Outfit trägt.
+              </p>
+            </div>
+          </div>
 
           <h2 class="title is-3">Die Sponsoren</h2>
 
@@ -107,9 +136,6 @@
               <img src="/partner/donau3fm.svg" />
             </div>
           </div>
-
-          <h2 class="title is-3">Die Möglichkeiten</h2>
-          <p>Content für die Möglichkeiten</p>
 
           <h2 class="title is-3">Ihr Kontakt</h2>
 
@@ -153,5 +179,48 @@
 }
 .grid img.reduced {
   opacity: 0.7;
+}
+
+@media screen and (min-width: 769px), print {
+  .is-divider-vertical {
+    display: block;
+    flex: none;
+    width: auto;
+    height: auto;
+    padding: 2rem;
+    margin: 0;
+    position: relative;
+    border-top: none;
+    min-height: 2rem;
+  }
+
+  .is-divider-vertical::before {
+    border-left: 0.1rem solid #dbdbdb;
+    bottom: 1rem;
+    content: "";
+    display: block;
+    left: 50%;
+    position: absolute;
+    top: 1rem;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+
+  .is-divider-vertical[data-content]::after {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: 0.1rem;
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+    transform: translateY(-50%) translateX(-50%);
+    background: #fff;
+    color: #b5b5b5;
+    content: attr(data-content);
+    display: inline-block;
+    font-size: 0.75rem;
+    text-align: center;
+  }
 }
 </style>
