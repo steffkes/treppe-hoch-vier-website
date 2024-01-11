@@ -99,7 +99,23 @@
             </div>
           </div>
 
-          <h2 class="title is-3">Die Sponsoren</h2>
+          <h2 class="title is-3">Interesse? Direkt Kontakt aufnehmen!</h2>
+
+          <div class="columns">
+            <div class="column is-2">
+              <img src="/stefan.jpg" />
+            </div>
+            <div class="column">
+              Stefan Süßkind<br />
+              ✉️
+              <a href="mailto:stefan@treppe-hoch-vier.de"
+                >stefan@treppe-hoch-vier.de</a
+              ><br />
+              📞 <a href="tel:+4916097048114">0160 970 48 114</a>
+            </div>
+          </div>
+
+          <h2 class="title is-3">In guter Gesellschaft. Unsere Unterstützer</h2>
 
           <div class="columns is-multiline is-vcentered grid">
             <div class="column is-2 has-text-centered">
@@ -134,22 +150,6 @@
             </div>
             <div class="column is-4 has-text-centered">
               <img src="/partner/donau3fm.svg" />
-            </div>
-          </div>
-
-          <h2 class="title is-3">Ihr Kontakt</h2>
-
-          <div class="columns">
-            <div class="column is-2">
-              <img src="/stefan.jpg" />
-            </div>
-            <div class="column">
-              Stefan Süßkind<br />
-              ✉️
-              <a href="mailto:stefan@treppe-hoch-vier.de"
-                >stefan@treppe-hoch-vier.de</a
-              ><br />
-              📞 <a href="tel:+4916097048114">0160 940 48 114</a>
             </div>
           </div>
         </div>
