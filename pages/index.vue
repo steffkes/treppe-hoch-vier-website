@@ -34,39 +34,32 @@
             </tbody>
           </table>
 
-          <h2 class="title is-3">Die Idee</h2>
+          <h2 class="title is-3">Der Spendenlauf</h2>
 
           <p>
-            Der erste dokumentierte Treppenlauf-Wettkampf mit Zeitnahme fand im
-            Jahre 1905 statt (behauptet zumindest Wikipedia). So richtig los
-            ging es dann 1978 in New York City auf dem Empire State Building.
-            Seit dem gibt es weltweit Treppenläufe in verschiedenster Form: Egal
-            ob der CN Tower in Toronto, der Taipei 101 in Taipeh, im Park-Inn
-            Hotel in Berlin oder draußen auf der Heini-Klopfer-Schanze in
-            Oberstdorf.
+            Ein Kind, ein Erwachsener, ein Towerrunner & eine Rettungskraft
+            (Feuerwehr, Polizei, THW, ..) sind vier Personen. Vier Personen die
+            eine Treppe hochlaufen: <strong>Treppe hoch Vier</strong>!
           </p>
 
           <p>
-            Dabei führt die Laufenden der Weg allerdings nur einmalig nach oben
-            - und dann war's das schon mit dem Vergnügen. Durch einen Zufall
-            hatte unser Initiator Stefan die Möglichkeit beim
-            <a href="http://firestairrun-pb.de/"
-              >Firefighter Charity Stairrun Paderborn</a
-            >
-            mitzulaufen .. und zwar den ganzen Tag (naja zumindest fast: Acht
-            Stunden waren es, für alle die es ganz genau wissen wollen).
+            Gelaufen werden jeweils vier Runden pro Stunde. Was sich eigentlich
+            ganz einfach anhört, wird im Laufe der Zeit zunehmend schwierig: Die
+            Beine wollen nicht mehr, dem Körper reicht's auch - nur der Kopf
+            sagt: Durchhalten! Auch deswegen ist das keine Sache die man alleine
+            in Angriff nimmt. So wie überall im Leben, sind auch wir auch in
+            diesem Fall gemeinsam stark.
           </p>
 
           <p>
-            Warum in die Ferne schweifen, wenn das Gute liegt so nah: Auch in
-            Ulm gibt es einige hübsche Treppen die sich für eine solche Quälerei
-            anbieten. Und ehe wir uns versahen, waren wir mit unserer Idee nicht
-            mehr alleine. Um dem Ganzen etwas Struktur zu geben, laufen bei uns
-            jeweils vier Personen in einer Gruppe: Ein Kind, ein Erwachsener,
-            ein Towerrunner (ja, die machen das öfter) und eine Rettungskraft
-            (Feuerwehr, Polizei, THW, ..). Für jede absolvierte Runde (davon
-            gibt es insgesamt 32) hat ein Sponsor zugesagt einen bestimmten
-            Geldbetrag zu spenden.
+            Von unten bis oben, sind es 318 Stufen. Die geht es in jeder Runde
+            einmal hoch und dann wieder runter. Pro Stunde vier mal, macht 2'544
+            Stufen in jeder Stunde. Das Ganze acht Stunden lang: 20'352 Stufen
+          </p>
+
+          <p>
+            Um das zu unterstützen, spenden unsere Sponsoren einen Geldbetrag
+            von 15 € pro gelaufener Runde
           </p>
 
           <h2 class="title is-3">Der Empfänger</h2>
