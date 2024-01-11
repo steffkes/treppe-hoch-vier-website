@@ -216,9 +216,6 @@
             <div class="column is-4 has-text-centered">
               <img src="/partner/donau3fm.svg" />
             </div>
-            <div class="column is-4 has-text-centered">
-              <img src="/partner/mueller.svg" />
-            </div>
           </div>
 
           <h2 class="title is-3">Die Möglichkeiten</h2>
