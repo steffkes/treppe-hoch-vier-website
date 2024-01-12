@@ -1,9 +1,13 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <h1 class="title is-1 mb-6">
-        <img src="/treppe-hoch-vier.svg" alt="Treppe hoch 4" />
-      </h1>
+      <div class="columns">
+        <div class="column is-8">
+          <h1 class="title is-1 mb-6">
+            <img src="/treppe-hoch-vier.svg" alt="Treppe hoch 4" />
+          </h1>
+        </div>
+      </div>
 
       <div class="box is-shadowless">
         <div class="content">
