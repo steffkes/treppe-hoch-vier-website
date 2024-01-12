@@ -22,7 +22,7 @@
               <tr>
                 <th>Für?</th>
                 <td>
-                  Förderkreis Ulm für tumor- und leukämiekranke Kinder Ulm e.V.
+                  Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.
                 </td>
               </tr>
               <tr>
@@ -73,9 +73,11 @@
           <h2 class="title is-3">Der Empfänger</h2>
           <p>
             <a href="https://www.foerderkreis-ulm.org"
-              >Förderkreis Ulm für tumor- und leukämiekranke Kinder Ulm e.V.
+              >Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.
             </a>
-            Hier folgen weitere Informationen zur Tätigkeit des FKU
+          </p>
+          <p>
+            <em> Hier folgen weitere Informationen zur Tätigkeit des FKU</em>
           </p>
 
           <h2 class="title is-3 mb-4">Ihre Möglichkeiten zur Unterstützung</h2>
