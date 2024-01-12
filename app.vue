@@ -7,7 +7,7 @@
 const event = {
   "@context": "https://schema.org",
   "@type": "SportsEvent",
-  name: "Treppe hoch Vier",
+  name: "Treppe hoch 4",
   description: "Spendenlauf: Treppenlauf im Ausdauerformat",
   startDate: "2024-03-02",
   endDate: "2024-03-02",

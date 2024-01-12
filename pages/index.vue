@@ -1,7 +1,9 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <h1 class="title is-1 mb-6">Treppe hoch Vier</h1>
+      <h1 class="title is-1 mb-6">
+        <img src="/treppe-hoch-vier.svg" alt="Treppe hoch 4" />
+      </h1>
 
       <div class="box is-shadowless">
         <div class="content">
@@ -41,7 +43,7 @@
             Turmläufer) und eine Rettungskraft (Feuerwehr, Polizei, THW, ...)
             bilden eine Gruppe. Diese vier Personen laufen acht Stunden lang,
             vier mal pro Stunde Treppen hoch und runter:
-            <strong>Treppe hoch Vier</strong>!
+            <strong>Treppe hoch 4</strong>!
           </p>
 
           <p>
