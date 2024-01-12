@@ -123,8 +123,8 @@
             <div class="column">
               Stefan Süßkind<br />
               ✉️
-              <a href="mailto:stefan@treppe-hoch-vier.de"
-                >stefan@treppe-hoch-vier.de</a
+              <a href="mailto:stefan@treppe-hoch-4.de"
+                >stefan@treppe-hoch-4.de</a
               ><br />
               📞 <a href="tel:+4916097048114">0160 970 48 114</a>
             </div>
