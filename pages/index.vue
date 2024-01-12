@@ -92,7 +92,7 @@
                 mit ihrem Logo auf der Startnummer
               </p>
             </div>
-            <div class="is-divider-vertical" data-content="oder"></div>
+            <div class="is-divider" data-content="oder"></div>
             <div class="column has-text-centered">
               <p><span class="tag is-dark is-size-1">3'000 €</span></p>
               <p>
@@ -200,11 +200,30 @@
   opacity: 0.7;
 }
 
-@media screen and (min-width: 769px), print {
-  .is-divider-vertical {
-    display: block;
-    flex: none;
-    width: auto;
+.is-divider {
+  display: block;
+  position: relative;
+  border-top: 0.1rem solid #dbdbdb;
+  height: 0.1rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.is-divider[data-content]::after {
+  background: #fff;
+  color: #b5b5b5;
+  content: attr(data-content);
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.4rem 0.8rem;
+  -webkit-transform: translateY(-1.1rem);
+  -ms-transform: translateY(-1.1rem);
+  transform: translateY(-1.1rem);
+  text-align: center;
+}
+
+@media screen and (min-width: 769px) {
+  .is-divider {
     height: auto;
     padding: 2rem;
     margin: 0;
@@ -213,7 +232,7 @@
     min-height: 2rem;
   }
 
-  .is-divider-vertical::before {
+  .is-divider::before {
     border-left: 0.1rem solid #dbdbdb;
     bottom: 1rem;
     content: "";
@@ -226,7 +245,7 @@
     transform: translateX(-50%);
   }
 
-  .is-divider-vertical[data-content]::after {
+  .is-divider[data-content]::after {
     position: absolute;
     left: 50%;
     top: 50%;
@@ -234,12 +253,6 @@
     -webkit-transform: translateY(-50%) translateX(-50%);
     -ms-transform: translateY(-50%) translateX(-50%);
     transform: translateY(-50%) translateX(-50%);
-    background: #fff;
-    color: #b5b5b5;
-    content: attr(data-content);
-    display: inline-block;
-    font-size: 0.75rem;
-    text-align: center;
   }
 }
 </style>
