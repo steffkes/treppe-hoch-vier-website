@@ -143,31 +143,180 @@
 
           <h2 class="title is-3">In guter Gesellschaft. Unsere Unterstützer</h2>
 
-          <div class="columns is-multiline is-vcentered grid">
-            <div class="column is-2 has-text-centered">
-              <img src="/sponsoren/streidt.png" />
+          <table class="table mt-3">
+            <thead>
+              <tr>
+                <th>Gruppe</th>
+                <th>Kind</th>
+                <th>Erwachsener</th>
+                <th>Towerrunner</th>
+                <th>Rettungskraft</th>
+              </tr>
+            </thead>
+            <tfoot>
+              <tr>
+                <th>Gruppe</th>
+                <th>Kind</th>
+                <th>Erwachsener</th>
+                <th>Towerrunner</th>
+                <th>Rettungskraft</th>
+              </tr>
+            </tfoot>
+            <tbody>
+              <tr>
+                <th>1</th>
+                <td><img src="/sponsoren/streidt.png" /></td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>3</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>4</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>5</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>6</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>7</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>8</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>9</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+              <tr>
+                <th>10</th>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+                <td>
+                  <span class="is-size-7 has-text-grey-light">verfügbar</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2 class="title is-3">Die Location</h2>
+
+          <div class="columns">
+            <div class="column is-2">
+              <img src="/maritim-ulm.jpg" alt="" />
+            </div>
+            <div class="column">
+              Das
+              <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm"
+                >Maritim Hotel Ulm</a
+              >
+              liegt direkt an der Donau und eröffnet, insbesondere vom
+              Restaurant in der 16. Etage, einen fantastischen Blick auf das
+              Ulmer Münster sowie ganz Ulm und Neu-Ulm. Doch auch das Hotel
+              selbst kann mit tollen Einblicken glänzen.
             </div>
           </div>
 
-          <div class="is-clearfix">
-            <h2 class="title is-3">Die Location</h2>
-
-            <div class="columns">
-              <div class="column is-2">
-                <img src="/maritim-ulm.jpg" alt="" />
-              </div>
-              <div class="column">
-                Das
-                <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm"
-                  >Maritim Hotel Ulm</a
-                >
-                liegt direkt an der Donau und eröffnet, insbesondere vom
-                Restaurant in der 16. Etage, einen fantastischen Blick auf das
-                Ulmer Münster sowie ganz Ulm und Neu-Ulm. Doch auch das Hotel
-                selbst kann mit tollen Einblicken glänzen.
-              </div>
-            </div>
-          </div>
           <h2 class="title is-3">Unsere Partner</h2>
 
           <div class="columns is-multiline is-vcentered grid">
@@ -265,5 +414,24 @@
     -ms-transform: translateY(-50%) translateX(-50%);
     transform: translateY(-50%) translateX(-50%);
   }
+}
+
+table thead th,
+table tfoot th {
+  font-weight: normal;
+}
+
+table tbody th,
+table tbody td {
+  vertical-align: middle !important;
+}
+
+table th,
+table td {
+  text-align: center !important;
+}
+
+table img {
+  height: 100px;
 }
 </style>
