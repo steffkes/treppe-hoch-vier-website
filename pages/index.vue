@@ -133,6 +133,16 @@
             </div>
             <div class="column">
               Stefan Süßkind<br />
+              <span class="has-text-grey-light">Initiator TREPPE HOCH 4</span
+              ><br />
+              <span class="has-text-grey-light"
+                >Initiator
+                <a
+                  href="https://www.schanzenlauf-oberstdorf.de"
+                  class="has-text-grey-light"
+                  >Schanzenlauf Oberstdorf</a
+                ></span
+              ><br />
               ✉️
               <a href="mailto:stefan@treppe-hoch-4.de"
                 >stefan@treppe-hoch-4.de</a
