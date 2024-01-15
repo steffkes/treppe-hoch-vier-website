@@ -153,7 +153,7 @@
 
           <h2 class="title is-3">In guter Gesellschaft. Unsere Unterstützer</h2>
 
-          <table class="table mt-3">
+          <table id="sponsors" class="table mt-3">
             <thead>
               <tr>
                 <th>Gruppe</th>
@@ -426,22 +426,22 @@
   }
 }
 
-table thead th,
-table tfoot th {
+#sponsors thead th,
+#sponsors tfoot th {
   font-weight: normal;
 }
 
-table tbody th,
-table tbody td {
+#sponsors tbody th,
+#sponsors tbody td {
   vertical-align: middle !important;
 }
 
-table th,
-table td {
+#sponsors th,
+#sponsors td {
   text-align: center !important;
 }
 
-table img {
+#sponsors img {
   height: 100px;
 }
 </style>
