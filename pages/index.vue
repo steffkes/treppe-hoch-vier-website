@@ -60,14 +60,9 @@
           <p>
             Die Motivation kommt durch die Gruppe. Keiner ist alleine! Alle
             laufen für das gleiche Ziel: möglichst viele Runden zu schaffen um
-            möglichst viele Spenden für einen guten Zweck zu sammeln.
-          </p>
-
-          <p>
-            Denn das ist es, was wir mit unserem Lauf erreichen wollen und die
-            Idee, die hinter diesem Treppenmarathon steckt. Für jede gelaufene
-            Runde spenden Sie einen Betrag von 15 € an den Förderkreis für
-            tumor- und leukämiekranke Kinder Ulm e.V.
+            möglichst viele Spenden für einen guten Zweck zu sammeln. Denn das
+            ist es, was wir mit unserem Lauf erreichen wollen und die Idee, die
+            hinter diesem Treppenmarathon steckt.
           </p>
 
           <h2 class="title is-3">Der Empfänger</h2>
@@ -81,6 +76,13 @@
           </p>
 
           <h2 class="title is-3 mb-4">Ihre Möglichkeiten zur Unterstützung</h2>
+
+          <p>
+            Für jede gelaufene Runde spenden Sie einen Betrag von 15 € an den
+            <strong
+              >Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.</strong
+            >. Daraus ergeben sich zwei Pakate für Sie:
+          </p>
 
           <div class="columns">
             <div class="column has-text-centered">
