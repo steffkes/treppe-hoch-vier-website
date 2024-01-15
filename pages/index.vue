@@ -102,7 +102,7 @@
                   >1 komplette Gruppe</strong
                 >
                 mit ihrem Logo auf der Startnummer<br />
-                und alle Personen tragen ihr T-Shirt
+                und alle Personen tragen ihr Funktionsshirt
               </p>
             </div>
           </div>
