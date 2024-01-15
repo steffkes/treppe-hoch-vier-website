@@ -78,17 +78,21 @@
           <h2 class="title is-3 mb-4">Ihre Möglichkeiten zur Unterstützung</h2>
 
           <p>
-            Für jede gelaufene Runde spenden Sie einen Betrag von 15 € an den
-            <strong
-              >Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.</strong
-            >. Bei einer Dauer von acht Stunden, in der vier Runden pro Stunde
-            gelaufen werden, ergibt sich daraus eine Anzahl von 32 Runden.
-            Daraus ergeben sich zwei Pakate:
+            Gelaufen werden maximal 32 Runden, aufgeteilt auf acht Stunden mit
+            vier Runden pro Stunde. Für jede gelaufene Runde spenden Sie einen
+            Betrag von 15 € an den Förderkreis für tumor- und leukämiekranke
+            Kinder Ulm e.V.. Als Basisbetrag (für Verpflegung, Notdienst und
+            ähnliches) werden 20 € veranschlagt.
           </p>
+
+          <p>Sie haben zwei Möglichkeiten die Veranstaltung zu unterstützen:</p>
 
           <div class="columns">
             <div class="column has-text-centered">
-              <p><span class="tag is-dark is-size-1">500 €</span></p>
+              <p class="tag is-dark is-size-1 mb-0">500 €</p>
+              <p class="is-size-7 has-text-grey-light">
+                Maximalbetrag (20 € + 15 € × 32 Runden)
+              </p>
               <p>
                 <strong class="mb-1" style="display: block"
                   >1 einzelne Person</strong
@@ -98,7 +102,10 @@
             </div>
             <div class="is-divider" data-content="oder"></div>
             <div class="column has-text-centered">
-              <p><span class="tag is-dark is-size-1">3'000 €</span></p>
+              <p class="tag is-dark is-size-1 mb-0">3'000 €</p>
+              <p class="is-size-7 has-text-grey-light">
+                Maximalbetrag (500 € × 4 Personen + 1'000 € Werbebudget)
+              </p>
               <p>
                 <strong class="mb-1" style="display: block"
                   >1 komplette Gruppe</strong
