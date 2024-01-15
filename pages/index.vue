@@ -81,7 +81,9 @@
             Für jede gelaufene Runde spenden Sie einen Betrag von 15 € an den
             <strong
               >Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.</strong
-            >. Daraus ergeben sich zwei Pakate für Sie:
+            >. Bei einer Dauer von acht Stunden, in der vier Runden pro Stunde
+            gelaufen werden, ergibt sich daraus eine Anzahl von 32 Runden.
+            Daraus ergeben sich zwei Pakate:
           </p>
 
           <div class="columns">
