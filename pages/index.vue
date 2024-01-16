@@ -51,6 +51,13 @@
           </p>
 
           <p>
+            <img
+              src="/zeitachse.svg"
+              alt="Grafik die den zeitlichen Ablauf von TREPPE HOCH 4 erklärt: Kinder laufen 20 Minuten vor der vollen Stunde, Erwachsene laufen jeweils zur vollen Stunde los."
+            />
+          </p>
+
+          <p>
             Was zunächst einfach klingt, ist eine echte Herausforderung. Durch
             die Dauerbelastung mit nur kurzen Pausen, machen irgendwann die
             Beine schlapp und dem Körper reicht es auch. Einzig der Kopf sagt:
