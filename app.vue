@@ -1,6 +1,18 @@
 <template>
-  <div style="background-color: #f9f9f9">
-    <NuxtPage />
+  <div style="background-color: #f9f9f9; min-height: 100vh">
+    <section class="section">
+      <div class="container is-max-desktop">
+        <div class="columns">
+          <div class="column is-8">
+            <h1 class="title is-1 mb-6">
+              <img src="/treppe-hoch-vier.svg" alt="TREPPE HOCH 4" />
+            </h1>
+          </div>
+        </div>
+
+        <NuxtPage />
+      </div>
+    </section>
   </div>
 </template>
 <script setup>
