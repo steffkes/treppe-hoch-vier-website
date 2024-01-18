@@ -347,6 +347,11 @@
                 <img src="/partner/donau3fm.svg" />
               </a>
             </div>
+            <div class="column is-4 has-text-centered">
+              <a href="https://www.dietenbronner.de">
+                <img src="/partner/dietenbronner.svg" />
+              </a>
+            </div>
           </div>
         </div>
       </div>
