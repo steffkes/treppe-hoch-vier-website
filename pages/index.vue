@@ -182,7 +182,11 @@
             <tbody>
               <tr>
                 <th>1</th>
-                <td><img src="/sponsoren/streidt.png" /></td>
+                <td>
+                  <a href="https://www.streidt.de/bestattungen"
+                    ><img src="/sponsoren/streidt.png"
+                  /></a>
+                </td>
                 <td>
                   <span class="is-size-7 has-text-grey-light">verfügbar</span>
                 </td>
