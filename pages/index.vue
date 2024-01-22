@@ -81,14 +81,36 @@
       </p>
 
       <h2 class="title is-3">Der Empfänger</h2>
-      <p>
-        <a href="https://www.foerderkreis-ulm.org"
-          >Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.
-        </a>
-      </p>
-      <p>
-        <em> Hier folgen weitere Informationen zur Tätigkeit des FKU</em>
-      </p>
+
+      <div class="columns">
+        <div class="column is-2">
+          <img src="/partner/foerderkreis-ulm.svg" alt="" />
+        </div>
+        <div class="column">
+          <p>
+            Der
+            <a href="https://www.foerderkreis-ulm.org"
+              >Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V.
+            </a>
+
+            unterstützt kranke Kinder, deren Geschwister als auch ihre Eltern in
+            einer sehr schweren Zeit.
+          </p>
+
+          <p>
+            Die Behandlungen sind langwierig und großteils stationär - gerade
+            dann ist es für Elternteile wichtig in der Nähe zu sein. Deswegen
+            betreibt der Förderkreis Elternhäuser in der Nähe der Klinik, so
+            dass die Eltern eine Rückzugsmöglichkeit haben.
+          </p>
+
+          <p>
+            Und so sehr die Krankheit auch an den Nerven zerrt, die vorhandenen
+            Geschwisterkinder erleben mitunter eine ähnlich schwere Zeit - denn
+            sie sind zwar nicht krank, kommen aber dennoch oftmals zu kurz.
+          </p>
+        </div>
+      </div>
 
       <h2 class="title is-3 mb-4">Ihre Möglichkeiten zur Unterstützung</h2>
 
