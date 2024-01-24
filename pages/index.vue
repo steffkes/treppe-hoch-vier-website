@@ -227,9 +227,7 @@
           </tr>
           <tr>
             <th>2</th>
-            <td>
-              <span class="is-size-7 has-text-grey-light">verfügbar</span>
-            </td>
+            <td>Anonymer<br />Spender</td>
             <td>
               <span class="is-size-7 has-text-grey-light">verfügbar</span>
             </td>
