@@ -226,6 +226,21 @@
             </td>
           </tr>
           <tr>
+            <th>2</th>
+            <td>
+              <span class="is-size-7 has-text-grey-light">verfügbar</span>
+            </td>
+            <td>
+              <span class="is-size-7 has-text-grey-light">verfügbar</span>
+            </td>
+            <td>
+              <span class="is-size-7 has-text-grey-light">verfügbar</span>
+            </td>
+            <td>
+              <span class="is-size-7 has-text-grey-light">verfügbar</span>
+            </td>
+          </tr>
+          <tr>
             <th>3</th>
             <td>
               <span class="is-size-7 has-text-grey-light">verfügbar</span>
