@@ -397,6 +397,16 @@
             <img src="/partner/dietenbronner.svg" />
           </a>
         </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://www.seeberger.de">
+            <img src="/partner/seeberger.svg" />
+          </a>
+        </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://www.uniklinik-ulm.de/">
+            <img src="/partner/uniklinik-ulm.svg" />
+          </a>
+        </div>
       </div>
     </div>
   </div>
