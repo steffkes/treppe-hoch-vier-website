@@ -207,6 +207,11 @@
               /></a>
             </div>
             <div class="column is-4 has-text-centered">
+              <a href="https://www.allesdigital.io"
+                ><img src="/sponsoren/allesdigital.svg" style="opacity: 0.7"
+              /></a>
+            </div>
+            <div class="column is-4 has-text-centered">
               <span class="has-text-grey-light">Anonymer Spender</span>
             </div>
           </div>
