@@ -1,6 +1,6 @@
 <template>
   <div style="background-color: #f9f9f9; min-height: 100vh">
-    <section class="section">
+    <section class="section pb-0">
       <div class="container is-max-desktop">
         <div class="columns">
           <div class="column is-8">
@@ -9,12 +9,13 @@
             </h1>
           </div>
         </div>
-
-        <NuxtPage />
       </div>
     </section>
+
+    <NuxtPage />
   </div>
 </template>
+
 <script setup>
 const event = {
   "@context": "https://schema.org",
