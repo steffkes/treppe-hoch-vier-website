@@ -5,7 +5,9 @@
         <div class="columns">
           <div class="column is-8">
             <h1 class="title is-1 mb-6">
-              <img src="/treppe-hoch-vier.svg" alt="TREPPE HOCH 4" />
+              <a href="/">
+                <img src="/treppe-hoch-vier.svg" alt="TREPPE HOCH 4" />
+              </a>
             </h1>
           </div>
         </div>
