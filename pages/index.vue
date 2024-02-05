@@ -262,6 +262,11 @@
                 <img src="/partner/uniklinik-ulm.svg" />
               </a>
             </div>
+            <div class="column is-4 has-text-centered">
+              <a href="https://www.kappelmeier-fotografie.de/">
+                <img src="/partner/kappelmeier.png" />
+              </a>
+            </div>
           </div>
         </div>
       </div>
