@@ -248,6 +248,11 @@
               </a>
             </div>
             <div class="column is-4 has-text-centered">
+              <a href="https://www.kappelmeier-fotografie.de/">
+                <img src="/partner/kappelmeier.png" />
+              </a>
+            </div>
+            <div class="column is-4 has-text-centered">
               <a href="https://www.dietenbronner.de">
                 <img src="/partner/dietenbronner.svg" />
               </a>
@@ -260,11 +265,6 @@
             <div class="column is-4 has-text-centered">
               <a href="https://www.uniklinik-ulm.de/">
                 <img src="/partner/uniklinik-ulm.svg" />
-              </a>
-            </div>
-            <div class="column is-4 has-text-centered">
-              <a href="https://www.kappelmeier-fotografie.de/">
-                <img src="/partner/kappelmeier.png" />
               </a>
             </div>
           </div>
