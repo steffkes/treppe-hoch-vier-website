@@ -1,31 +1,6 @@
 <template>
   <section class="section py-0">
     <div class="container is-max-desktop">
-      <div class="tabs is-boxed mb-0">
-        <ul>
-          <li>
-            <a href="/">
-              <span>Sponsoren</span>
-            </a>
-          </li>
-          <li class="is-active">
-            <a href="/benefiz-gala">
-              <span>Benefiz-Gala</span>
-            </a>
-          </li>
-          <li>
-            <a href="/teilnehmer">
-              <span>Teilnehmer</span>
-            </a>
-          </li>
-          <li>
-            <a href="/besucher">
-              <span>Besucher</span>
-            </a>
-          </li>
-        </ul>
-      </div>
-
       <div class="box is-shadowless">
         <div class="content">
           <h2 class="title is-3">
@@ -33,9 +8,9 @@
           </h2>
 
           <p>
-            Um die sportliche Leistung des Tages mit einem gelungenen Abend
-            abzurunden, wird das Panorama-Restaurant im 16. Stock des Maritim
-            Hotel Ulm exklusiv geöffnet.
+            Um die <a href="/">sportliche Leistung des Tages</a> mit einem
+            gelungenen Abend abzurunden, wird das Panorama-Restaurant im 16.
+            Stock des Maritim Hotel Ulm exklusiv geöffnet.
           </p>
 
           <p>
@@ -92,6 +67,6 @@
 
 <script setup>
 definePageMeta({
-  layout: "empty",
+  layout: "dinner",
 });
 </script>

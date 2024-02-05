@@ -8,11 +8,6 @@
               <span>Sponsoren</span>
             </a>
           </li>
-          <li>
-            <a href="/benefiz-gala">
-              <span>Benefiz-Gala</span>
-            </a>
-          </li>
           <li class="is-active">
             <a href="/teilnehmer">
               <span>Teilnehmer</span>

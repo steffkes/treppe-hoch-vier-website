@@ -9,11 +9,6 @@
             </a>
           </li>
           <li>
-            <a href="/benefiz-gala">
-              <span>Benefiz-Gala</span>
-            </a>
-          </li>
-          <li>
             <a href="/teilnehmer">
               <span>Teilnehmer</span>
             </a>
