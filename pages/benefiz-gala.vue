@@ -66,8 +66,10 @@
 </template>
 
 <script setup>
-useHead({
+useSeoMeta({
   title: "Benefiz-Gala",
+  ogImage:
+    "https://treppe-hoch-vier.vercel.app/treppe-hoch-vier-benefiz-gala.jpg",
 });
 
 definePageMeta({

@@ -26,7 +26,7 @@ const event = {
       addressCountry: "DE",
     },
   },
-  image: ["https://treppe-hoch-vier.vercel.app/treppe-hoch-vier.jpg"],
+  image: ["https://treppe-hoch-vier.vercel.app/treppe-hoch-vier-benefiz-lauf.jpg"],
 };
 
 const formattedDate = new Date(event.startDate).toLocaleDateString("de-DE", {
@@ -34,6 +34,10 @@ const formattedDate = new Date(event.startDate).toLocaleDateString("de-DE", {
   year: "2-digit",
   month: "2-digit",
   day: "2-digit",
+});
+
+useSeoMeta({
+  ogImage: event.image[0],
 });
 
 useHead({
@@ -45,10 +49,6 @@ useHead({
     {
       name: "description",
       content: formattedDate + " @ " + event.location.name,
-    },
-    {
-      property: "og:image",
-      content: event.image[0],
     },
     { property: "og:type", content: "website" },
     { name: "twitter:card", content: "summary_large_image" },

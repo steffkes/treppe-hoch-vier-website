@@ -94,7 +94,7 @@
 </template>
 
 <script setup>
-useHead({
+useSeoMeta({
   title: "Teilnehmer | Benefiz-Lauf",
 });
 </script>

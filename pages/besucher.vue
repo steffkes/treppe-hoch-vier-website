@@ -31,7 +31,7 @@
 </template>
 
 <script setup>
-useHead({
+useSeoMeta({
   title: "Besucher | Benefiz-Lauf",
 });
 </script>
