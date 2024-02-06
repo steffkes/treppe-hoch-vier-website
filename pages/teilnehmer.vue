@@ -29,7 +29,7 @@
             <tbody>
               <tr>
                 <th>Was?</th>
-                <td>Spendenlauf (Treppenlauf im Ausdauerformat)</td>
+                <td>Benefiz-Lauf (Treppenlauf im Ausdauerformat)</td>
               </tr>
               <tr>
                 <th>Für?</th>
