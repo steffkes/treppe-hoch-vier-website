@@ -53,9 +53,11 @@
   <div class="columns mb-0">
     <div class="column">
       <img src="/benefiz-gala/ausblick-neu-ulm.jpg" class="is-block" />
+      <p class="has-text-grey-light has-text-centered">Ausblick nach Neu-Ulm</p>
     </div>
     <div class="column">
       <img src="/benefiz-gala/ausblick-ulm.jpg" class="is-block" />
+      <p class="has-text-grey-light has-text-centered">Ausblick nach Ulm</p>
     </div>
   </div>
 
