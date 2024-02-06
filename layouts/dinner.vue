@@ -10,14 +10,21 @@
             <a class="navbar-item" href="/">
               <img src="/treppe-hoch-vier.svg" alt="TREPPE HOCH 4" />
             </a>
-            <div class="navbar-burger" data-target="navbar">
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
+            <a
+              role="button"
+              class="navbar-burger"
+              :class="{ 'is-active': activeNavbar }"
+              aria-label="menu"
+              aria-expanded="false"
+              @click="activeNavbar = !activeNavbar"
+            >
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
           </div>
 
-          <div id="navbar" class="navbar-menu">
+          <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
             <div class="navbar-start">
               <a class="navbar-item is-tab is-active" href="/benefiz-gala">
                 Benefiz-Gala
@@ -56,6 +63,10 @@
     </section>
   </div>
 </template>
+
+<script setup>
+const activeNavbar = ref(false);
+</script>
 
 <style>
 .grid img {
