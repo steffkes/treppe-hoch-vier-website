@@ -66,6 +66,10 @@
 </template>
 
 <script setup>
+useHead({
+  title: "Benefiz-Gala",
+});
+
 definePageMeta({
   layout: "dinner",
 });

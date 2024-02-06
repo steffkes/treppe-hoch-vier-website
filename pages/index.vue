@@ -234,6 +234,12 @@
   </section>
 </template>
 
+<script setup>
+useHead({
+  title: "Sponsoren | Benefiz-Lauf",
+});
+</script>
+
 <style>
 .content h2:not(:first-child) {
   margin-top: 2em;

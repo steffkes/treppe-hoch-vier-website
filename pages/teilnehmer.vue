@@ -92,3 +92,9 @@
     </div>
   </section>
 </template>
+
+<script setup>
+useHead({
+  title: "Teilnehmer | Benefiz-Lauf",
+});
+</script>
