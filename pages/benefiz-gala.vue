@@ -10,12 +10,22 @@
           <p>
             Um die <a href="/">sportliche Leistung des Tages</a> mit einem
             gelungenen Abend abzurunden, wird das Panorama-Restaurant im 16.
-            Stock des Maritim Hotel Ulm exklusiv geöffnet.
+            Stock des Maritim Hotel Ulm exklusiv geöffnet. Es erwartet Sie ein
+            abgestimmtes Vier-Gänge-Menü.
           </p>
 
           <p>
-            Es erwartet Sie ein abgestimmtes Vier-Gänge-Menü. Weitere
-            Informationen werden in den nächsten Tagen veröffentlicht.
+            <strong>Ein Ticket für die Benefiz-Gala kostet 100 €</strong>. Davon
+            werden die Kosten für das Vier-Gänge-Menü (in Höhe von 52 €,
+            exklusive Getränken) beglichen, die restlichen 48 € gehen direkt an
+            den Förderkreis für tumor- und leukämiekranke Kinder Ulm e.V..
+          </p>
+          <p>
+            <a
+              href="https://diginights.com/event/2024-03-02-treppehochvier-gala-dinner-panorama-restaurant-maritim-hotel-ulm"
+              class="button is-primary is-block"
+              >Jetzt ihren Platz für 100 € sichern!</a
+            >
           </p>
         </div>
       </div>
