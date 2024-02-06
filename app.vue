@@ -26,7 +26,9 @@ const event = {
       addressCountry: "DE",
     },
   },
-  image: ["https://treppe-hoch-vier.vercel.app/treppe-hoch-vier-benefiz-lauf.jpg"],
+  image: [
+    "https://treppe-hoch-vier.vercel.app/treppe-hoch-vier-benefiz-lauf.jpg",
+  ],
 };
 
 const formattedDate = new Date(event.startDate).toLocaleDateString("de-DE", {
