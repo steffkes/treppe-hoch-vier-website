@@ -4,17 +4,17 @@
       <div class="tabs is-boxed mb-0">
         <ul>
           <li>
-            <a href="/">
+            <a href="/benefiz-lauf/sponsoren">
               <span>Sponsoren</span>
             </a>
           </li>
           <li class="is-active">
-            <a href="/teilnehmer">
+            <a href="/benefiz-lauf/teilnehmer">
               <span>Teilnehmer</span>
             </a>
           </li>
           <li>
-            <a href="/besucher">
+            <a href="/benefiz-lauf/besucher">
               <span>Besucher</span>
             </a>
           </li>
