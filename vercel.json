@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    {
+      "source": "/teilnehmer",
+      "destination": "/benefiz-lauf/teilnehmer"
+    },
+    {
+      "source": "/besucher",
+      "destination": "/benefiz-lauf/besucher"
+    }
+  ]
+}

@@ -26,11 +26,11 @@
 
           <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
             <div class="navbar-start">
+              <a class="navbar-item is-tab is-active" href="/benefiz-lauf">
+                Benefiz-Lauf
+              </a>
               <a class="navbar-item is-tab" href="/benefiz-gala">
                 Benefiz-Gala
-              </a>
-              <a class="navbar-item is-tab is-active" href="/">
-                Benefiz-Lauf
               </a>
             </div>
           </div>
