@@ -3,6 +3,11 @@
     <div class="container is-max-desktop">
       <div class="tabs is-boxed mb-0">
         <ul>
+          <li>
+            <a href="/benefiz-lauf">
+              <span>Idee</span>
+            </a>
+          </li>
           <li class="is-active">
             <a href="/benefiz-lauf/sponsoren">
               <span>Sponsoren</span>

@@ -4,6 +4,11 @@
       <div class="tabs is-boxed mb-0">
         <ul>
           <li>
+            <a href="/benefiz-lauf">
+              <span>Idee</span>
+            </a>
+          </li>
+          <li>
             <a href="/benefiz-lauf/sponsoren">
               <span>Sponsoren</span>
             </a>
