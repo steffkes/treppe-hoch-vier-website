@@ -214,6 +214,11 @@
             <div class="column is-4 has-text-centered">
               <span class="has-text-grey-light">Anonymer Spender</span>
             </div>
+            <div class="column is-4 has-text-centered">
+              <a href="https://goldochsen.de"
+                ><img src="/sponsoren/goldochsen.svg"
+              /></a>
+            </div>
           </div>
 
           <h2 class="title is-3">Die Location</h2>
