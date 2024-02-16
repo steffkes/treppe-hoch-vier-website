@@ -44,7 +44,7 @@
               </tr>
               <tr>
                 <th>Wann?</th>
-                <td>Samstag, 02.03.24 09:30 - 19:00 Uhr</td>
+                <td>Samstag, 02.03.24 10:00 - 18:00 Uhr</td>
               </tr>
               <tr>
                 <th>Wo?</th>
