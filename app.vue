@@ -10,9 +10,9 @@ const event = {
   "@type": "SportsEvent",
   name: "TREPPE HOCH 4",
   description: "Benefiz-Lauf: Treppenlauf im Ausdauerformat",
-  startDate: "2024-03-02",
-  endDate: "2024-03-02",
-  eventStatus: "https://schema.org/EventScheduled",
+  previousStartDate: "2024-03-02",
+  previousEndDate: "2024-03-02",
+  eventStatus: "https://schema.org/EventPostponed",
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
   location: {
     "@type": "Place",
