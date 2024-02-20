@@ -38,6 +38,14 @@
       </div>
     </section>
 
+    <section class="section pt-0">
+      <div class="container">
+        <div class="notification is-danger has-text-centered">
+          Die Veranstaltung findet <strong>nicht</strong> statt.
+        </div>
+      </div>
+    </section>
+
     <slot />
 
     <section class="section pb-0">
