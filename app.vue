@@ -17,6 +17,7 @@ const event = {
   location: {
     "@type": "Place",
     name: "Maritim Hotel Ulm",
+    sameAs: "https://www.maritim.de/de/hotels/deutschland/hotel-ulm",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Basteistraße 40",
