@@ -83,6 +83,11 @@
               <img src="/partner/uniklinik-ulm.svg" />
             </a>
           </div>
+          <div class="column is-4 has-text-centered">
+            <a href="https://www.fruchthof.de/">
+              <img src="/partner/fruchthof-nagel.png" />
+            </a>
+          </div>
         </div>
       </div>
     </section>
